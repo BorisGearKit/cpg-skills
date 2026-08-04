@@ -1,0 +1,8 @@
+{
+  "name": "vendor-diligence-kit",
+  "displayName": "Vendor Diligence Kit",
+  "description": "Vet CPG vendors — co-mans, 3PLs, freight, printers — like you've done it a hundred times.",
+  "author": { "name": "Boris Korsunsky" },
+  "homepage": "https://shelfkit.ai",
+  "keywords": ["cpg", "co-manufacturer", "3pl", "vendor", "diligence"]
+}

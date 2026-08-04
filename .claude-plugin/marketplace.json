@@ -1,0 +1,17 @@
+{
+  "name": "cpg-skills",
+  "owner": { "name": "Boris Korsunsky", "email": "boris@gearkit.ai", "url": "https://shelfkit.ai" },
+  "description": "Working skills for CPG operators — vendor diligence, deductions, and the ops math your spreadsheet gets wrong. By ShelfKit.",
+  "plugins": [
+    {
+      "name": "vendor-diligence-kit",
+      "source": "./plugins/vendor-diligence-kit",
+      "description": "Vet a co-man, 3PL, freight broker or printer from their quote or website: red flags, differentiating questions, reference-check script, comparison sheet."
+    },
+    {
+      "name": "deduction-decoder",
+      "source": "./plugins/deduction-decoder",
+      "description": "Decode retailer/distributor deductions, rebuild the gross-to-net waterfall, and draft dispute packets that get filed on time."
+    }
+  ]
+}

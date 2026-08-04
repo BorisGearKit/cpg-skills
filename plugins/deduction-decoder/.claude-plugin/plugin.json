@@ -1,0 +1,8 @@
+{
+  "name": "deduction-decoder",
+  "displayName": "Deduction Decoder",
+  "description": "Turn mystery short-pays into named lines, investor-grade margin math, and disputes filed on time.",
+  "author": { "name": "Boris Korsunsky" },
+  "homepage": "https://shelfkit.ai",
+  "keywords": ["cpg", "deductions", "chargebacks", "unfi", "kehe", "margin"]
+}
