@@ -1,0 +1,8 @@
+{
+  "name": "production-planner",
+  "displayName": "Production Planner",
+  "description": "Production schedule in, drafted supplier PO emails out — with the shortfall math shown.",
+  "author": { "name": "Boris Korsunsky" },
+  "homepage": "https://shelfkit.ai",
+  "keywords": ["cpg", "production", "purchase-order", "ingredients", "inventory", "lead-time"]
+}
