@@ -21,3 +21,10 @@ ShelfKit (planning solver, watchers that work while you sleep) are the paid laye
 [shelfkit.ai](https://shelfkit.ai).
 
 More skills coming: cert-readiness roadmap, thread untangler. PRs and requests welcome.
+
+## License
+
+[PolyForm Shield 1.0.0](LICENSE.md) — free to use for your business, including commercially:
+install the skills, run them on your operations, adapt them to your workflows. The one thing
+the license reserves: using them to build or provide a product that competes with ShelfKit /
+GearKit. Operators run free; competitors build their own.
