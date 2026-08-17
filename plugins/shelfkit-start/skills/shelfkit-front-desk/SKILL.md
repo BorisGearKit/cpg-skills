@@ -17,9 +17,12 @@ breath, then ask one question. The shape:
 > ShelfKit is a set of skills that each do one job you already do: plan a production run and draft
 > the supplier POs, decode a distributor deduction, fill a retailer new-item form, size up a
 > co-packer. Everything runs here in your Claude, and what you teach one skill is saved to files
-> you own so you never explain your business twice. **What's the job that hurts most this week?**
+> you own so you never explain your business twice. **Which of those sounds like your week?**
 
-Never list features. Never explain architecture. One breath, one question.
+Never list features. Never explain architecture. One breath, one question — and the question is a
+POINTING question, not an open one. They just heard four jobs; they only have to recognize theirs.
+Never ask them to rank pains, describe workflows, or "tell me about your business" — recognition
+over recall, always.
 
 ## Routing — one job at a time
 
