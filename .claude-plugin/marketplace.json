@@ -8,6 +8,11 @@
   "description": "Working skills for CPG operators \u2014 vendor diligence, deductions, and the ops math your spreadsheet gets wrong. By ShelfKit.",
   "plugins": [
     {
+      "name": "shelfkit-start",
+      "source": "./plugins/shelfkit-start",
+      "description": "Start here: a front desk that routes you to the right skill, and the Business Profile that saves what skills learn to files you own \u2014 so you never explain your business twice."
+    },
+    {
       "name": "vendor-diligence-kit",
       "source": "./plugins/vendor-diligence-kit",
       "description": "Vet a co-man, 3PL, freight broker or printer from their quote or website: red flags, differentiating questions, reference-check script, comparison sheet."
