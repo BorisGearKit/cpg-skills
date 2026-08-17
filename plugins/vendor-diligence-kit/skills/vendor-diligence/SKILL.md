@@ -77,3 +77,11 @@ with a one-paragraph recommendation and the single biggest open risk per vendor.
 - Prices/terms you know from general market knowledge are RANGES, labeled as typical, never as
   this vendor's numbers.
 - If the user is about to sign something, end with: the three clauses to renegotiate first.
+
+## Business Profile (if the ShelfKit pack's `business-profile` skill is installed)
+
+Before interviewing, look for a `business-profile/` folder (files, workspace, or project
+knowledge). Load the files relevant to this job and open by confirming what you already know, with
+dates, instead of re-asking. At the end of a run that learned durable facts (suppliers, lead times,
+formulas, channel quirks), hand off to the `business-profile` save moment: count what was learned,
+offer to save it, show exactly what you'd write. Never save silently.

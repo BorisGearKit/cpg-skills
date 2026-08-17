@@ -76,3 +76,11 @@ against it.
 - Deduction management is arithmetic plus deadlines, not magic: always surface the dispute window
   and the oldest recoverable line first.
 - If numbers the user gives don't tie out, say so and show the gap — do not force the waterfall.
+
+## Business Profile (if the ShelfKit pack's `business-profile` skill is installed)
+
+Before interviewing, look for a `business-profile/` folder (files, workspace, or project
+knowledge). Load the files relevant to this job and open by confirming what you already know, with
+dates, instead of re-asking. At the end of a run that learned durable facts (suppliers, lead times,
+formulas, channel quirks), hand off to the `business-profile` save moment: count what was learned,
+offer to save it, show exactly what you'd write. Never save silently.
