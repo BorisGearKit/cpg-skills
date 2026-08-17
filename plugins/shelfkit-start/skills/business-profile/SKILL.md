@@ -73,6 +73,23 @@ Any skill, at start:
 4. New or corrected facts learned during the run go through the save moment at the end — additive,
    dated, corrections overwrite with a `(was: …)` note.
 
+## The HTML view — markdown is the memory, HTML is the window
+
+The markdown files are canonical: cheap to load, easy to edit, clean to diff. But nobody enjoys
+READING a folder of .md files. So whenever the profile changes, also (re)generate
+**`business-profile/profile.html`** — one self-contained page, no external assets, that:
+
+- shows the whole profile styled for scanning: suppliers as cards, calendar as a timeline row,
+  facts with their as-of dates
+- links each section to its source .md file (relative links, so it works opened from disk via
+  `file://` with no server)
+- states at the top: "This is a view. The facts live in the .md files next to it — edit those."
+
+Regenerate it on every save; never edit it by hand and never treat its content as the source.
+Artifacts in `work/` (run plans, reorder calendars) may also be generated as styled HTML when the
+output benefits from layout — a printable run plan beats a wall of text. Same rule: the HTML is
+output, the data that produced it is stated in the file.
+
 ## Updates and conflicts
 
 - Additive by default. A correction replaces the fact and keeps the old value inline:
