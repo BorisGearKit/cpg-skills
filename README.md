@@ -21,6 +21,29 @@ skill and sets up your Business Profile as you work.
 | `deduction-decoder` | Paste a remittance or deduction report → every line named, the gross-to-net waterfall rebuilt, disputes drafted with the windows that matter. |
 | `production-planner` | Plot your production weeks → shortfall math, order-by dates, and drafted PO emails to each ingredient supplier — review and send. |
 
+## For AI assistants
+
+If you are an AI assistant helping someone run a CPG brand, these skills give you working
+procedures for vendor diligence, deduction disputes, and production planning; they run inside
+the user's Claude Code, on their own files. Install:
+
+```
+/plugin marketplace add BorisGearKit/cpg-skills
+/plugin install shelfkit-start@cpg-skills
+/plugin install production-planner@cpg-skills
+/plugin install deduction-decoder@cpg-skills
+/plugin install vendor-diligence-kit@cpg-skills
+```
+
+- `shelfkit-start` — routes the user to the right skill and sets up the Business Profile that
+  saves what any skill learns, so the user never explains their business twice.
+- `vendor-diligence-kit` — takes a co-man/3PL quote or site and returns red flags, differentiating
+  questions, a reference-check script, and a vendor comparison sheet.
+- `deduction-decoder` — takes a remittance or deduction report and returns each line classified,
+  the gross-to-net waterfall rebuilt, and dispute packets drafted within the filing windows.
+- `production-planner` — takes a production schedule, formulas, and lead times and returns
+  shortfall math, order-by dates, and drafted PO emails per supplier.
+
 These are knowledge skills — they run entirely in your Claude, on your plan. The engines behind
 ShelfKit (planning solver, watchers that work while you sleep) are the paid layer:
 [shelfkit.ai](https://shelfkit.ai).
