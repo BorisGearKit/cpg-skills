@@ -10,7 +10,7 @@ respecting the filing windows so nothing goes stale.
 
 **Input** (pasted into the chat):
 
-> "Northgate Provisions took $4,180 off our last UNFI remit and I have no idea why. Gross
+> "Northgate Provisions took $4,180 off our last remittance and I have no idea why. Gross
 > invoiced was $31,400."
 
 **What you get back:**
@@ -24,8 +24,8 @@ respecting the filing windows so nothing goes stale.
 - A dispute packet for the $2,340 unexplained line and the $640 chargeback (if it's your 3PL's
   contractual fault): reference number, what's claimed vs. what happened, backup to attach, and
   the ask — plus the filing window so it goes in on time.
-- The top root cause in your data and a one-line fix (e.g. "promo deductions with no calendar
-  match → keep one trade calendar as source of truth").
+- The top two root causes in your data, each with a one-line fix (e.g. "promo deductions with
+  no calendar match → keep one trade calendar as source of truth").
 
 ## Install
 

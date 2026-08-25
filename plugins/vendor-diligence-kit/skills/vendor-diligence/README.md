@@ -11,7 +11,7 @@ actually differentiate one vendor from another.
 **Input** (pasted quote):
 
 > "Driftwood Copack Solutions — MOQ 15,000 units, $0.62/unit at that tier, drops to $0.48 at
-> 50,000. SQF certification in progress. Lead time 6 weeks from PO. We own the tooling."
+> 50,000. SQF certification in progress. Lead time 6 weeks. We own the tooling."
 
 **What you get back:**
 
