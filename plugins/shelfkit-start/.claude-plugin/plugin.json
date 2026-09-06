@@ -1,6 +1,6 @@
 {
   "name": "shelfkit-start",
-  "displayName": "Shelfkit Start",
+  "displayName": "ShelfKit Start",
   "description": "Start here: a front desk that routes you to the right skill, and the Business Profile that saves what skills learn to files you own — so you never explain your business twice.",
   "author": { "name": "Boris Korsunsky" },
   "homepage": "https://shelfkit.ai",
